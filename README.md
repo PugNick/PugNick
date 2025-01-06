@@ -13,20 +13,35 @@
 - 🌟 Objetivo: Aportar soluciones creativas y eficientes a proyectos desafiantes.
 
 ### 🛠 Skills:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ### 🧩 Tecnologías con las que estoy familiarizado
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-📫 ¡Conecta conmigo!
-- LinkedIn: https://www.linkedin.com/in/pablo-valdez-720439276/?trk=opento_sprofile_details(#)
-- Portafolio: [en proceso](#)
+### 📫 Conecta conmigo
+- <p style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail" style="vertical-align: middle; margin-right: 8px;" />
+  <a href="mailto:pablovjujuy@gmail.com" style="text-decoration: none; color: inherit;">pablovjujuy@gmail.com</a>
+</p>
+
+- <p style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" style="vertical-align: middle; margin-right: 8px;" />
+  <a href="https://www.linkedin.com/in/pablo-valdez-720439276/" style="text-decoration: none; color: inherit;">Mi perfil</a>
+</p>
+
+- <p style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/-Portafolio-000000?logo=internet-explorer&logoColor=white&style=flat" alt="Portafolio" style="vertical-align: middle; margin-right: 8px;" />
+  <span  style="text-decoration: none; color: inherit;">Portafolio en construcción, ¡pronto disponible!</span>
+</p>
+
+
+
 
 
 <!--

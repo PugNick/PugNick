@@ -27,7 +27,7 @@
 ### 📫 Conecta conmigo
 - <p style="display: flex; align-items: center;">
   <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail" style="vertical-align: middle; margin-right: 8px;" />
-  <a href="mailto:pablov.dev03@gmail.com" style="text-decoration: none; color: inherit;">pablovjujuy@gmail.com</a>
+  <a href="mailto:pablov.dev03@gmail.com" style="text-decoration: none; color: inherit;">pablov.dev03@gmail.com</a>
 </p>
 
 - <p style="display: flex; align-items: center;">
